@@ -3,6 +3,7 @@
 ABSTRACT: Estimating the pure visitor lift of special exhibitions by controlling for multi-temporal factors (Year, Month, Day) and seasonal baselines using Random Forest.
 
 1. 분석의 목적 및 문제 정의
+
 박물관 관람객 데이터는 방학, 공휴일, 계절적 요인 등 외생 변수에 의해 강한 변동성을 보인다. 이로 인해 성수기에 진행된 특별전시의 경우, 전시 자체의 매력도와 무관하게 높은 관람객 지표를 기록하는 성과 측정의 편향성(Measurement Bias)이 발생한다.
 
 본 분석은 머신러닝을 활용해 이러한 외부 요인에 의한 **기저 방문객(Baseline)**을 분리하고, 특정 전시 기획이 유도한 **순수 유입 증분(Net Lift)**을 산출하여 전시 성과를 객관적으로 재정의하는 데 목적이 있다.
