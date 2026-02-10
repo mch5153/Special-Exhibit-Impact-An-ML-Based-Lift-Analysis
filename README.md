@@ -1,4 +1,6 @@
-# Special Exhibit Impact: An ML-Based Lift Analysis
+# museum_project
+
+Special Exhibit Impact: An ML-Based Lift Analysis
 
 ABSTRACT: Estimating the pure visitor lift of special exhibitions by controlling for multi-temporal factors (Year, Month, Day) and seasonal baselines using Random Forest.
 
